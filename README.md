@@ -1,2 +1,3 @@
 # Algorithms
-Some solutions of the problems on LeetCode
+Some solutions of the problems on LeetCode  
+
